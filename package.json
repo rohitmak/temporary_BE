@@ -1,0 +1,19 @@
+{
+  "name": "backend_deploy_01",
+  "version": "1.0.0",
+  "description": "first_backend_deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "rohit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
